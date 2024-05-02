@@ -1,5 +1,11 @@
 # OpenTofu support across the ecosystem
 
+## Awesome?
+
+This is NOT an **Awesome List**. For that, see [awesome-opentofu](https://github.com/virtualroot/awesome-opentofu).
+
+This is a collection of information intended to help you determine how much work is in front of you as you consider a migration from Terraform → OpenTofu.
+
 ## Summary
 
 When the OpenTofu fork was [announced](https://opentofu.org/blog/the-opentofu-fork-is-now-available/) (September 2023), I began reaching out to several notable Terraform-related projects in the community with the goal of understanding how customers like ourselves might be impacted.
